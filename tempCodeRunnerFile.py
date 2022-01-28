@@ -1,0 +1,1 @@
+self.sb.show_score()
